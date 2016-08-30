@@ -1,6 +1,6 @@
 ---
 title: Categories
-layout: post
+layout: catagories
 ---
 
 <div id='tag_cloud'>
