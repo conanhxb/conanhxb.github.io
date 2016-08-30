@@ -1,6 +1,6 @@
 # General Jekyll Config
 highlighter: rouge
-url: http://example.com
+url: https://conanhxb.github.io
 lsi: false
 permalink: /blog/:year/:month/:day/:title/
 category_dir: blog/categories
