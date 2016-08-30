@@ -1,5 +1,5 @@
 ---
-title: Categories 分类标签
+title: Categories
 layout: post
 ---
 
