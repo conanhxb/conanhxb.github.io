@@ -115,6 +115,18 @@ nav h1, nav h2 {
   padding-top: 15px;
 }
 
+#navigation {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border-top: dotted #ddd;
+  border-width: 1px 0;
+  font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+}
+
+#navigation a{display:block;padding:.1em .1em;color:#000000;}
+#navigation a:hover{background-color:#ff0000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
+
 #social {
   margin-bottom: 10px;
   font-size: 13px;
