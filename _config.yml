@@ -2,4 +2,8 @@
 highlighter: rouge
 url: http://example.com
 lsi: false
+permalink: /blog/:year/:month/:day/:title/
+category_dir: blog/categories
+paginate: 100
+paginate_path: "page:num"
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
