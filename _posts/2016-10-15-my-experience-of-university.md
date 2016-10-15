@@ -40,13 +40,15 @@ categories: ["生活"]
 
 
 ### 其他
+
 - 多阅读，多写作：通过阅读增长自己的见识。通过写作巩固自己所学知识与感悟，在写作的时候需要自己理清思路，并在与他人分享的时候获得反馈，实现learn by teaching。
 - 尝试自己感兴趣的新事物：学会一样乐器，学习一门外语等。
 - 高效率应用推荐：印象笔记（资源收藏），滴答清单（日程时间管理）。
 
 ### 推荐阅读
-[1] 谈谈大学 by Lisa Ding http://t.cn/RVVl9dD
 
-[2] 谈谈大学 by 陈天 http://t.cn/RVVpBb4
+[1] [谈谈大学 by Lisa Ding](http://dinglisa.com/blog/2014/05/03/my-talk-on-university/)
 
-[3] 从博士到码工 — 心有千千结 by 朱赟 http://t.cn/RVVYXAi
+[2] [谈谈大学 by 陈天]（http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=202126172&idx=1&sn=3bce92c8a95205de87b9e3b52d281ccd&mpshare=1&scene=1&srcid=1014jW6iFNcvwUfb0ZrCTBgQ#rd) http://t.cn/RVVpBb4
+
+[3] [从博士到码工 — 心有千千结 by 朱赟](http://mp.weixin.qq.com/s?__biz=MzA4ODgwNjk1MQ==&mid=405675970&idx=1&sn=e1c5a9e35c217600b5d11f57f6a336e5&mpshare=1&scene=1&srcid=1014pQdzUKEXCnOX6QbNZ6NA#rd)
