@@ -49,6 +49,6 @@ categories: ["生活"]
 
 [1] [谈谈大学 by Lisa Ding](http://dinglisa.com/blog/2014/05/03/my-talk-on-university/)
 
-[2] [谈谈大学 by 陈天]（http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=202126172&idx=1&sn=3bce92c8a95205de87b9e3b52d281ccd&mpshare=1&scene=1&srcid=1014jW6iFNcvwUfb0ZrCTBgQ#rd) http://t.cn/RVVpBb4
+[2] [谈谈大学 by 陈天](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=202126172&idx=1&sn=3bce92c8a95205de87b9e3b52d281ccd&mpshare=1&scene=1&srcid=1014jW6iFNcvwUfb0ZrCTBgQ#rd) 
 
 [3] [从博士到码工 — 心有千千结 by 朱赟](http://mp.weixin.qq.com/s?__biz=MzA4ODgwNjk1MQ==&mid=405675970&idx=1&sn=e1c5a9e35c217600b5d11f57f6a336e5&mpshare=1&scene=1&srcid=1014pQdzUKEXCnOX6QbNZ6NA#rd)
